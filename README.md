@@ -26,6 +26,7 @@ If this is something you think you can fix, then fork Late-Nights and create
 a branch with a descriptive name.
 
 A good branch name would be (where issue #325 is the ticket you're working on):
+#### run the following to install and starting contributing!
 ```bash
 npm init
 npm start

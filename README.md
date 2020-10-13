@@ -9,9 +9,23 @@ Currently it is just React but we have plans to later transfer into a fullstack 
 
 
 ## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
-Please make sure to update tests as appropriate.
+First off, thank you for considering contributing to Active Admin. It's people
+like you that make Active Admin such a great tool.
+
+### Where do I go from here?
+
+If you've noticed a bug or have a feature request, [make one][new issue]! It's
+generally best if you get confirmation of your bug or approval for your feature
+request this way before starting to code.
+
+
+### Fork & create a branch
+
+If this is something you think you can fix, then [fork Late-Nights] and create
+a branch with a descriptive name.
+
+A good branch name would be (where issue #325 is the ticket you're working on):
 
 
 ## License

@@ -10,8 +10,8 @@ Currently it is just React but we have plans to later transfer into a fullstack 
 
 ## Contributing
 
-First off, thank you for considering contributing to Active Admin. It's people
-like you that make Active Admin such a great tool.
+First off, thank you for considering contributing to Late Nights. It's people
+like you that make Late Nights such a great tool.
 
 ### Where do I go from here?
 

@@ -28,7 +28,8 @@ a branch with a descriptive name.
 A good branch name would be (where issue #325 is the ticket you're working on):
 ```bash
 npm init
-'''
+npm start
+```
 
 
 ## License

@@ -1,10 +1,18 @@
 import React from 'react';
 import styled from 'styled-components'
 
+const Glitch = styled.div`
+  postition:relative;
+  &:before,
+  &:after{
+    content:"Glitch"
+  }
+`
+
 
 const Start = ()=>{
   return(
-    <h1>This will be the Start Menu</h1>
+    <Glitch>Glitch</Glitch>
   )
 }
 

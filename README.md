@@ -1,6 +1,6 @@
 # Late-Nights
 
-Late Nights is a website for people who want to express their late night thoughts and share them with others.
+Late Nights is a website for people who want something to do late at night. You can play games and share stories. Anything to burn the late night oil.
 
 
 ## Stack

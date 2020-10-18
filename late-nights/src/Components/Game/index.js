@@ -1,5 +1,4 @@
 import React from 'react';
-import PropTypes from 'prop-types';
 import GameCanvas from '../GameCanvas';
 
 //NEED TO CREATE A CANVAS FOR DRAWING
@@ -9,8 +8,8 @@ import GameCanvas from '../GameCanvas';
 
 const Game = ()=>{
   return(
-    <div>
-      <h1>Game here please</h1>
+    <div style={{textAlign:'center'}}>
+      <h1 >Move with the arrow keys</h1>
       <GameCanvas/>
     </div>
   )
